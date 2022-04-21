@@ -1,6 +1,7 @@
 # udacity_repo
 This is a repository to gain familiarity with git and Github.
 
+### git commands
 Some common git commands include:
 
 * git clone: Copies a repository to my local machine.
